@@ -1,6 +1,6 @@
 # Machine Learning
 
-MachineLearning2 : Multi Class Classification using Logistic Regression code in python (jupyter notebook)
+MachineLearning2 : Implementation of Logistic Regression from scratch in python for Multi Class Classification (jupyter notebook)
 
 Machine_Learning_assg_2 : Report for above code
 
