@@ -1,8 +1,10 @@
 # Machine Learning
 
 MachineLearning2 : Multi Class Classification using Logistic Regression code in python (jupyter notebook)
+
 Machine_Learning_assg_2 : Report for above code
 
 Assignment_Report_1 : Comparing two classification algorithms (Naive Bayes & J48) in WEKA
+
 Assg3 : Comparing two Regression Algorithms (Linear Regression & Knn) in scikit-learn
 
