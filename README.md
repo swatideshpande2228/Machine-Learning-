@@ -1,3 +1,3 @@
-# my_first_repo
+# Machine Learning
 
 Multi Class Classification using Logistic Regression
